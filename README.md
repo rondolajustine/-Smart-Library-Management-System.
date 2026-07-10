@@ -42,4 +42,10 @@ _Last updated during GitHub Actions laboratory._
 
 
  main
-...
+ 
+Contributor Update
+
+Contributor Name:Rondola Justine
+
+Feature Added:
+- Digital Library Dashboard
