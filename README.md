@@ -25,6 +25,13 @@ Project module
 - Member Management
 - Book Catalog
 - Borrowing
+
+Contributor Update
+
+Contributor Name: [Justine Rondola]
+
+Feature Added:
+- Digital Library Dashboard
 - Returning
 - Inventory Management
 - Reports
