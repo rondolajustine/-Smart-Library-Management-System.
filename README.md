@@ -32,3 +32,10 @@ Project module
 - Reports
 - User Accounts
 
+ Contributor Update
+
+Contributor Name: Adrian Araza
+
+Feature Added:
+- Digital Library Dashboard
+
