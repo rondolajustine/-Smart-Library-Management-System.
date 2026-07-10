@@ -22,6 +22,12 @@ Features
 - Delete Member Record
 - Search Member 
 
+ Contributor Update
+
+Contributor Name: Adrian Araza
+
+Feature Added:
+- Digital Library Dashboard
 Project module
 
 - Member Management
